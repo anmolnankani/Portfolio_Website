@@ -1,2 +1,3 @@
 # Portfolio_Website
-Simple static site to present you; can be hosted via GitHub Pages.
+
+Static website showing profile and links to repos. Can be published via GitHub Pages.
